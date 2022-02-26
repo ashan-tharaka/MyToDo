@@ -20,18 +20,18 @@ h3 {
 }
 
 h3 {
-    color: rgb(0, 255, 64);
+    color: rgb(8, 240, 77);
     font-weight: bold;
 }
 
 #forth {
     color: rgb(20, 4, 238);
     color-adjust: BlinkMacSystemFont;
-    font-weight: bold;
+    font-weight: bolder;
 }
 
 #second {
-    color: rgb(10, 156, 108);
+    color: rgb(14, 240, 165);
 }
 
 #userInput {
